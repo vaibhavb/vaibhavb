@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning models which help us live.
 - 💞️ I’m looking to collaborate on open source software, and teaching.
 - 📫 How to reach me - @vaibhavb 
-- More about me at (https://www.vitraag.com)[https://www.vitraag.com]
+- More about me at [https://www.vitraag.com](https://www.vitraag.com)
 
 <!---
 vaibhavb/vaibhavb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
